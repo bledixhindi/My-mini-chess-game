@@ -1,6 +1,6 @@
 # My-mini-chess-game
 
-![miniches](https://user-images.githubusercontent.com/54402850/216089219-cc4768ee-9643-4e82-826b-7f494e5b6311.PNG)
+![miniches](https://user-images.githubusercontent.com/54402850/216089643-8e01ac28-f580-4edb-a7dd-47de77d80002.PNG) {:height="100px" width="100px"}
 
 
 My mini chess game is an java project.The game is created by Bledjon Xhindi.
